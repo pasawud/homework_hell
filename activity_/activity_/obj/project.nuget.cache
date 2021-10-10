@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WQYsjGSPxq40oaMssU13E3hIOv3cJcdOoHnm9ChCW+rFwA09Q3Qr2hQpw33MGpqgIMXqgTzfvsLEtdxsHgit+Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\เช็คกี้\\source\\repos\\activity_\\activity_\\activity_.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\เช็คกี้\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.18\\microsoft.netcore.app.host.win-x64.3.1.18.nupkg.sha512"
+  ],
+  "logs": []
+}

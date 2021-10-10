@@ -1,0 +1,14 @@
+C:\Users\เช็คกี้\source\repos\activity_\activity_\obj\Debug\netcoreapp3.1\activity_.csprojAssemblyReference.cache
+C:\Users\เช็คกี้\source\repos\activity_\activity_\obj\Debug\netcoreapp3.1\activity_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\เช็คกี้\source\repos\activity_\activity_\obj\Debug\netcoreapp3.1\activity_.AssemblyInfoInputs.cache
+C:\Users\เช็คกี้\source\repos\activity_\activity_\obj\Debug\netcoreapp3.1\activity_.AssemblyInfo.cs
+C:\Users\เช็คกี้\source\repos\activity_\activity_\obj\Debug\netcoreapp3.1\activity_.csproj.CoreCompileInputs.cache
+C:\Users\เช็คกี้\source\repos\activity_\activity_\bin\Debug\netcoreapp3.1\activity_.exe
+C:\Users\เช็คกี้\source\repos\activity_\activity_\bin\Debug\netcoreapp3.1\activity_.deps.json
+C:\Users\เช็คกี้\source\repos\activity_\activity_\bin\Debug\netcoreapp3.1\activity_.runtimeconfig.json
+C:\Users\เช็คกี้\source\repos\activity_\activity_\bin\Debug\netcoreapp3.1\activity_.runtimeconfig.dev.json
+C:\Users\เช็คกี้\source\repos\activity_\activity_\bin\Debug\netcoreapp3.1\activity_.dll
+C:\Users\เช็คกี้\source\repos\activity_\activity_\bin\Debug\netcoreapp3.1\activity_.pdb
+C:\Users\เช็คกี้\source\repos\activity_\activity_\obj\Debug\netcoreapp3.1\activity_.dll
+C:\Users\เช็คกี้\source\repos\activity_\activity_\obj\Debug\netcoreapp3.1\activity_.pdb
+C:\Users\เช็คกี้\source\repos\activity_\activity_\obj\Debug\netcoreapp3.1\activity_.genruntimeconfig.cache
